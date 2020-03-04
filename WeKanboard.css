@@ -204,9 +204,9 @@ div.board-add-icon{
     background: var(--task-card-bg) !important;
     border:none;
     border-left: 1px solid;
-    border-left-width: 4px !important;
+    border-left-width: 20px !important;
     box-shadow: 0 1px 2px rgba(0,0,0,.15);
-    border-radius: 2px;
+    border-radius: 8px;
     margin: 8px 13px;
     padding: .5em;
 }
@@ -277,7 +277,7 @@ div.board-add-icon{
     border: none;
     border-bottom: 1px solid var(--middle-gray);
     padding: .5em .4em;
-    border-left-width: 8px !important;
+    border-left-width: 12px !important;
     border-radius: unset !important;
 }
 

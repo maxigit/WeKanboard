@@ -1,0 +1,241 @@
+.task-board.color-yellow,
+.task-summary-container.color-yellow,
+.color-picker-square.color-yellow,
+.task-board-category.color-yellow,
+.table-list-category.color-yellow,
+.task-tag.color-yellow {
+ background-color: rgb(255, 255, 0);
+ border-color: rgb(255, 255, 0)
+}
+td.color-yellow {
+ background-color: rgb(255, 255, 0);
+}
+.table-list-row.color-yellow {
+ border-left: 5px solid rgb(255, 255, 0)
+}
+.task-board.color-blue,
+.task-summary-container.color-blue,
+.color-picker-square.color-blue,
+.task-board-category.color-blue,
+.table-list-category.color-blue,
+.task-tag.color-blue {
+ background-color: rgb(0,100,255);
+ border-color: rgb(0,100,255)
+}
+td.color-blue {
+ background-color: rgb(0, 100, 255)
+}
+.table-list-row.color-blue {
+ border-left: 5px solid rgb(0,100,255)
+}
+.task-board.color-green,
+.task-summary-container.color-green,
+.color-picker-square.color-green,
+.task-board-category.color-green,
+.table-list-category.color-green,
+.task-tag.color-green {
+ background-color: rgb(0, 200, 0);
+ border-color: rgb(0, 200, 0)
+}
+td.color-green {
+ background-color: rgb(0, 200, 0)
+}
+.table-list-row.color-green {
+ border-left: 5px solid rgb(0, 200, 0)
+}
+.task-board.color-purple,
+.task-summary-container.color-purple,
+.color-picker-square.color-purple,
+.task-board-category.color-purple,
+.table-list-category.color-purple,
+.task-tag.color-purple {
+ background-color: rgb(205, 0, 255);
+ border-color: rgb(205, 0, 255)
+}
+td.color-purple {
+ background-color: rgb(205, 0, 255)
+}
+.table-list-row.color-purple {
+ border-left: 5px solid rgb(205, 0, 255)
+}
+.task-board.color-red,
+.task-summary-container.color-red,
+.color-picker-square.color-red,
+.task-board-category.color-red,
+.table-list-category.color-red,
+.task-tag.color-red {
+ background-color: rgb(255, 0, 0);
+ border-color: rgb(255, 0, 0)
+}
+td.color-red {
+ background-color: rgb(255, 0, 0)
+}
+.table-list-row.color-red {
+ border-left: 5px solid rgb(255, 0, 0)
+}
+.task-board.color-orange,
+.task-summary-container.color-orange,
+.color-picker-square.color-orange,
+.task-board-category.color-orange,
+.table-list-category.color-orange,
+.task-tag.color-orange {
+ background-color: rgb(255, 128, 0);
+ border-color: rgb(255, 128, 0)
+}
+td.color-orange {
+ background-color: rgb(255, 128, 0)
+}
+.table-list-row.color-orange {
+ border-left: 5px solid rgb(255, 128, 0)
+}
+.task-board.color-grey,
+.task-summary-container.color-grey,
+.color-picker-square.color-grey,
+.task-board-category.color-grey,
+.table-list-category.color-grey,
+.task-tag.color-grey {
+ background-color: rgb(204, 204, 204);
+ border-color: rgb(204, 204, 204)
+}
+td.color-grey {
+ background-color: rgb(204, 204, 204)
+}
+.table-list-row.color-grey {
+ border-left: 5px solid rgb(204, 204, 204)
+}
+.task-board.color-brown,
+.task-summary-container.color-brown,
+.color-picker-square.color-brown,
+.task-board-category.color-brown,
+.table-list-category.color-brown,
+.task-tag.color-brown {
+ background-color: #772200
+ border-color: #772200
+}
+td.color-brown {
+ background-color: #772200
+}
+.table-list-row.color-brown {
+ border-left: 5px solid #772200
+}
+.task-board.color-deep_orange,
+.task-summary-container.color-deep_orange,
+.color-picker-square.color-deep_orange,
+.task-board-category.color-deep_orange,
+.table-list-category.color-deep_orange,
+.task-tag.color-deep_orange {
+ background-color: #cc3000;
+ border-color: #cc3000
+}
+td.color-deep_orange {
+ background-color: #cc3000
+}
+.table-list-row.color-deep_orange {
+ border-left: 5px solid #cc3000
+}
+.task-board.color-dark_grey,
+.task-summary-container.color-dark_grey,
+.color-picker-square.color-dark_grey,
+.task-board-category.color-dark_grey,
+.table-list-category.color-dark_grey,
+.task-tag.color-dark_grey {
+ background-color: #455a64
+ border-color: #455a64
+}
+td.color-dark_grey {
+ background-color: #455a64
+}
+.table-list-row.color-dark_grey {
+ border-left: 5px solid #455a64
+}
+.task-board.color-pink,
+.task-summary-container.color-pink,
+.color-picker-square.color-pink,
+.task-board-category.color-pink,
+.table-list-category.color-pink,
+.task-tag.color-pink {
+ background-color: #fa83b1;
+ border-color: #fa83b1
+}
+td.color-pink {
+ background-color: #fa83b1
+}
+.table-list-row.color-pink {
+ border-left: 5px solid #fa83b1
+}
+.task-board.color-teal,
+.task-summary-container.color-teal,
+.color-picker-square.color-teal,
+.task-board-category.color-teal,
+.table-list-category.color-teal,
+.task-tag.color-teal {
+ background-color: #00b0b3;
+ border-color: #00b0b3
+}
+td.color-teal {
+ background-color: #00b0b3
+}
+.table-list-row.color-teal {
+ border-left: 5px solid #00b0b3
+}
+.task-board.color-cyan,
+.task-summary-container.color-cyan,
+.color-picker-square.color-cyan,
+.task-board-category.color-cyan,
+.table-list-category.color-cyan,
+.task-tag.color-cyan {
+ background-color: #00ffff;
+ border-color: #00ffff;
+}
+td.color-cyan {
+ background-color: #00ffff
+}
+.table-list-row.color-cyan {
+ border-left: 5px solid #00ffff;
+}
+.task-board.color-lime,
+.task-summary-container.color-lime,
+.color-picker-square.color-lime,
+.task-board-category.color-lime,
+.table-list-category.color-lime,
+.task-tag.color-lime {
+ background-color: ##ccff00;
+ border-color: #ccff00
+}
+td.color-lime {
+ background-color: #ccff00;
+}
+.table-list-row.color-lime {
+ border-left: 5px solid #ccff00
+}
+.task-board.color-light_green,
+.task-summary-container.color-light_green,
+.color-picker-square.color-light_green,
+.task-board-category.color-light_green,
+.table-list-category.color-light_green,
+.task-tag.color-light_green {
+ background-color: #3f3;
+ border-color: #3f3;
+}
+td.color-light_green {
+ background-color: #3f3
+}
+.table-list-row.color-light_green {
+ border-left: 5px solid #3f3;
+}
+.task-board.color-amber,
+.task-summary-container.color-amber,
+.color-picker-square.color-amber,
+.task-board-category.color-amber,
+.table-list-category.color-amber,
+.task-tag.color-amber {
+ background-color: #ffc000;
+ border-color: #ffc000
+}
+td.color-amber {
+ background-color: #ffc000
+}
+.table-list-row.color-amber {
+ border-left: 5px solid #ffc000
+}
+

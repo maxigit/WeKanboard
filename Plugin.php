@@ -6,6 +6,7 @@ class Plugin extends Base
     public function initialize()
     {
         $this->hook->on('template:layout:css', array('template' => 'plugins/WeKanboard/WeKanboard.css'));
+        $this->hook->on('template:layout:css', array('template' => 'plugins/WeKanboard/task-colors.css'));
     }
 
     public function getPluginName()
